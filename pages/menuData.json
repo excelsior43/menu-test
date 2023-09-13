@@ -1,0 +1,19 @@
+[
+  {
+    "name": "pds",
+    "icon": "DashboardIcon",
+    "sublist": [
+      { "name": "All pds", "path": "/pds", "icon": "BorderAll" },
+      { "name": "Ak", "path": "/pds/a", "icon": "BorderAll" },
+      { "name": "b", "path": "/pds/b", "icon": "BorderAll" },
+      { "name": "4", "path": "/pds/c", "icon": "BorderAll" }
+    ]
+  },
+  { "name": "u3", "path": "/nnnnnn", "icon": "AssignmentIcon" },
+  { "name": "U2", "path": "/up1", "icon": "AddBoxIcon" },
+  { "name": "u1", "path": "/up2", "icon": "AddBoxIcon" },
+  { "name": "bla4", "path": "/pcf/clients", "icon": "AccountBalance" },
+  { "name": "bla1", "path": "/bla1", "icon": "RunningWithErrors" },
+  { "name": "bla2", "path": "/bla2", "icon": "Schedule" },
+  { "name": "bla3", "path": "/bla3", "icon": "AssignmentIcon" }
+]
